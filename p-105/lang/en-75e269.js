@@ -1,0 +1,1 @@
+writeToLangDic({ba4407:'Fiat Deposit','3c7c42':'Fiat Withdraw',c3b4d8:'Amount','5a92e9':'Minimum','0baa46':'Withdraw to',e024f8:'Insufficient balance','232db3':'Max','229f39':'Balance',a5e003:'Payment Method','08a91f':'Fee','06ab05':'Minimum {Min}','63069e':'Sorry，your country belongs to a risk area and cannot provide Fiat Deposit services',f8c398:'Arrives within'});

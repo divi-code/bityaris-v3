@@ -1,0 +1,2 @@
+import{ar as n,A as o,as as c,dn as u,bi as p,aO as i,dp as r,dq as d,bt as m}from"./chunk-707a9f2f.js";import{m as e,s as l}from"./app-7aa7d139.js";const $=n({fundAccounts:u,wallets:p,isUtaSpot:i}).pipe(e(({isUtaSpot:a,fundAccounts:s,wallets:t})=>a?s:t),l([]),o(50),c(1));n({fundAccounts:r,wallets:d,isUtaSpot:i}).pipe(e(({isUtaSpot:a,fundAccounts:s,wallets:t})=>a?s:t),l([]),o(50),c(1));n({marginAccounts:m,wallets:p,isUtaSpot:i}).pipe(e(({isUtaSpot:a,marginAccounts:s,wallets:t})=>a?s:t),l([]),o(50),c(1));export{$ as f};
+//# sourceMappingURL=chunk-11658a4c.js.map

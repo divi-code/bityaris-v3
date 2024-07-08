@@ -1,0 +1,1 @@
+writeToLangDic({ffd69a:'Withdrawal suspended',eae962:'Deposit suspended'});

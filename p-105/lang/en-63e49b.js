@@ -1,0 +1,1 @@
+writeToLangDic({e087d5:'Notice','0fa20a':'Confirm'});

@@ -1,0 +1,1 @@
+writeToLangDic({'283afd':'Verification','1c4fe0':'Identity Verification','1ba59b':'1-minute KYC Tutorial','79361a':'Complete verification to {GetRewards}.','72e262':'get rewards',ad48a0:'KYC completed，pls {ClaimUpRewards}!','320d74':'claim up rewards'});

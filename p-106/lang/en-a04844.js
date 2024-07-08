@@ -1,0 +1,1 @@
+writeToLangDic({'7efd92':'Margin Account'});

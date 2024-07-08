@@ -1,0 +1,1 @@
+writeToLangDic({d31a37:'Safety Verification','3fce68':'Please enter the email verification code',cf9155:'Send Again',a2a330:'Verification code has been sent','2841bb':'Safety Verification','9d7b47':'Please enter Google Authenticator code'});

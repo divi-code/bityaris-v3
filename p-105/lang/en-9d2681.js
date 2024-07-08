@@ -1,0 +1,1 @@
+writeToLangDic({'787f61':'Current account is a sub-account, sub-accounts cannot access Credit/Debit Card trading, please first change to main account'});

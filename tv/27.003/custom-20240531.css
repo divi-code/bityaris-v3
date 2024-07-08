@@ -1,0 +1,85 @@
+:root {
+  --primaryColor: #003fe6;
+}
+:root.theme-dark {
+  --primaryColor: #3d7eff;
+}
+
+html {
+  --tv-color-toolbar-button-text-active: var(--primaryColor);
+  --tv-color-toolbar-toggle-button-background-active: var(--primaryColor);
+}
+button,
+label[class^='checkbox-'],
+label[class^='checkbox-'] span,
+div[class^='selected-'],
+div[class^='tab-'],
+div[data-name='menu-inner'] > div,
+div[data-role='button'] {
+  cursor: pointer;
+}
+
+.chart-page,
+.chart-controls-bar {
+  background: #fff;
+}
+
+html.theme-dark .chart-page,
+html.theme-dark .chart-page .chart-container-border,
+html.theme-dark .chart-controls-bar,
+html.theme-dark .content-YhoA_L2m-,
+html.theme-dark .group-wWM3zP_M-,
+html.theme-dark .group-2JyOhh7Z-,
+html.theme-dark .inner-1xuW-gY4-,
+html.theme-dark .drawingToolbar-U3_QXRof- {
+  background-color: transparent;
+}
+html.theme-dark .chart-page,
+html.theme-dark .group-gmpTgcxI,
+html.theme-dark #layout-size-sensor {
+  background: #1a1d1f;
+}
+.item-2xPVYue0-.isActive-2j-GhQs_-,
+.feature-no-touch .item-2xPVYue0-.isActive-2j-GhQs_-:hover,
+.feature-no-touch .item-2xPVYue0-.isActive-2j-GhQs_-:active,
+.feature-touch .item-2xPVYue0-.isActive-2j-GhQs_-:active {
+  background-color: var(--primaryColor);
+}
+
+.button-263WXsg--.isActive-2mI1-NUL- .icon-1Y-3MM9F-,
+.button-2ioYhFEY-.isInteractive-20uLObIc-.isActive-22S-lGpa-,
+.feature-no-touch .button-2ioYhFEY-.isInteractive-20uLObIc-.isActive-22S-lGpa-:hover,
+.feature-no-touch .button-2ioYhFEY-.isInteractive-20uLObIc-.isActive-22S-lGpa-:active,
+.feature-touch .button-2ioYhFEY-.isInteractive-20uLObIc-.isActive-22S-lGpa-:active {
+  color: var(--primaryColor);
+}
+
+html.theme-dark .group-wWM3zP_M,
+html.theme-dark .group-2JyOhh7Z,
+html.theme-dark .group-BfVZxb4b {
+  background: #1a1d1f;
+}
+html.theme-light .group-wWM3zP_M,
+html.theme-light .group-2JyOhh7Z,
+.chart-page,
+.chart-controls-bar,
+.group-2_so5thS {
+  background: #ffffff;
+}
+
+.group-2JyOhh7Z + .group-2JyOhh7Z {
+  margin: 0;
+}
+
+.chart-controls-bar {
+  border: none;
+}
+
+html.theme-dark .group-2_so5thS {
+  background-color: #1a1d1f;
+}
+
+/*å‡çº§ä¹‹åŽå¯ç§»é™¤ï¼Œå®˜æ–¹å·²è§£å†³*/
+.drawingToolbar-gmpTgcxI {
+  position: initial;
+}

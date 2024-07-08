@@ -1,0 +1,2 @@
+const A={EMAIL:/^([A-Za-z0-9_\+\-\.])+\@([A-Za-z0-9_\-\.])+\.[A-Za-z]{2,8}$/,PASSWORD:/^(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,30}$/,SPECIAL_ATR:new RegExp("[`~@#$^&*=|{}\\[\\]<>/~@#￥……&*——|{}【】]"),CHARACTER_ASC:/[\x21-\x2f\x3a-\x40\x5b-\x60\x7B-\x7F]/,IP_ADDRESS:/^((25[0-5]|2[0-4]\d|((1\d{2})|([1-9]?\d)))\.){3}(25[0-5]|2[0-4]\d|((1\d{2})|([1-9]?\d)))$/,TWITTER:/(^|[^@\w])\b/,SPECIAL_CHARACTERS:/^[a-zA-Z0-9]{4,20}$/,UID:/^[0-9]*$/};export{A as P};
+//# sourceMappingURL=chunk-c0d4337d.js.map
