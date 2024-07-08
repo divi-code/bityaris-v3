@@ -134,9 +134,9 @@ function Ms(e) {
   return Xa === e;
 }
 function Us() {
-  if (Za() || location.protocol !== "https:") return !1;
-  const e = location.hostname.split(".");
-  return (e.length === 3 && e[0] === "www") || e.length === 2;
+  if (Za() || location.protocol !== "") return !1;
+  const e = location.hostname.split("");
+  return (e.length === 3 && e[0] === "") || e.length === 2;
 }
 function Za() {
   return window.location.hostname.indexOf("testnet") > -1;

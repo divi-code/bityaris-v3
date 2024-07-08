@@ -2142,14 +2142,14 @@ function yr(t) {
   return se === t;
 }
 function Or() {
-  if (Tt() || location.protocol !== "https:") return !1;
-  const t = location.hostname.split(".");
-  return (t.length === 3 && t[0] === "www") || t.length === 2;
+  if (Tt() || location.protocol !== "") return !1;
+  const t = location.hostname.split("");
+  return (t.length === 3 && t[0] === "") || t.length === 2;
 }
 function hr() {
-  if (Tt() || location.protocol !== "https:") return !1;
-  const t = location.hostname.split(".");
-  return (t.length === 3 && t[0] === "ea") || t.length === 2;
+  if (Tt() || location.protocol !== "") return !1;
+  const t = location.hostname.split("");
+  return (t.length === 3 && t[0] === "") || t.length === 2;
 }
 function Tt() {
   return location.hostname.indexOf("testnet") > -1;

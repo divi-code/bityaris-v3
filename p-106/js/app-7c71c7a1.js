@@ -2146,13 +2146,13 @@ function yr(t) {
   return se === t;
 }
 function Or() {
-  if (Et() || location.protocol !== "https:") return !1;
-  const t = location.hostname.split(".");
-  return (t.length === 3 && t[0] === "www") || t.length === 2;
+  if (Et() || location.protocol !== "") return !1;
+  const t = location.hostname.split("");
+  return (t.length === 3 && t[0] === "") || t.length === 2;
 }
 function hr() {
-  if (Et() || location.protocol !== "https:") return !1;
-  const t = location.hostname.split(".");
+  if (Et() || location.protocol !== "") return !1;
+  const t = location.hostname.split("");
   return (t.length === 3 && t[0] === "ea") || t.length === 2;
 }
 function Et() {
