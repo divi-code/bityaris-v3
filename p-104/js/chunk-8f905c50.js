@@ -10791,7 +10791,7 @@ function Hs(s) {
         iconUrl:
           "https://img.phemex.com/v1/44d13946-aa67-4c88-8858-3d0e6bd31a34/2-4.svg",
         iconAlt: "strategy square",
-        link: s[3](W.STRATEGY_SQUARE.pathname) + "?type=SPOT_GRID",
+        link: "",
         target: "_self",
         title: s[5](J.TradingBots),
         titleIcon:

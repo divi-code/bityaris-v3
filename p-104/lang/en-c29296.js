@@ -9,7 +9,7 @@ writeToLangDic({
   542514: "Cancel",
   547845: "*Name",
   640574: "Monthly ROI",
-  673380: "xPT Pre-Mining",
+  673380: "xTOKEN Pre-Mining",
   684529:
     "Are you sure you want to stop copying this Top Trader? Doing so will not impact your current positions",
   706850: "Data dashboard",

@@ -122,7 +122,7 @@ writeToLangDic({
   658878: "Search",
   663741: "Details: Conditional order would be triggered immediately",
   665414: "Loan History",
-  673380: "xPT Pre-Mining",
+  673380: "xTOKEN Pre-Mining",
   679657:
     "For USD and USDT, the minimum conversion amount is 10 and the maximum is 100,000. For BTC, the minimum conversion amount is 0.001 and the maximum is 2. For ETH, the minimum conversion amount is 0.01 and the maximum is 30. These limits are set for each conversion request to be worthwhile to execute.",
   680708:
@@ -938,7 +938,7 @@ writeToLangDic({
   "0ec61d": "Failed to add collateral.",
   fcf8dd:
     "System service error: failed to restore the allocated amount., please try again.",
-  d281ec: "System service error: vePT amount locking failed, please try again.",
+  d281ec: "System service error: veTOKEN amount locking failed, please try again.",
   "144e7e":
     "Insufficient collateral at the moment, please transfer funds to the spot/lending account.",
   be1565: "Current loan-to-value ratio exceeds the initial LTV.",
@@ -948,9 +948,9 @@ writeToLangDic({
   "3bf5c1": "Incorrect loan amount.",
   "5de34c": "Incorrect collateral currency, please change another asset.",
   "6509fd":
-    "System service error: Incorrect amount for vePT discount borrowing, query failed.",
+    "System service error: Incorrect amount for veTOKEN discount borrowing, query failed.",
   "033817": "Unable to borrow asset from this lending pool.",
-  "1475d5": "Incorrect vePT amount for discount applied.",
+  "1475d5": "Incorrect veTOKEN amount for discount applied.",
   bc25f5: "Exceeding the maximum borrowing limit.",
   e18da8:
     "Apologies, but your current account has assets undergoing liquidation, with defaulted accounts, resulting in insufficient credit for borrowing within the next 30 days.",
@@ -1759,7 +1759,7 @@ writeToLangDic({
   bb01ca: "Forgot password？",
   "4b5e8a": "Invalid password or Google verification code.",
   "8c1e60":
-    "Register on BitYaris | 100 Million xPT Airdrop and $50 Welcome Rewards | BitYaris",
+    "Register on BitYaris | 100 Million xTOKEN Airdrop and $50 Welcome Rewards | BitYaris",
   d88457:
     "Start trading BTC, ETH, and SOL today. Registering on BitYaris only takes a few seconds. Free registration gives you access to $6050 in bonuses.",
   f5f6e6: "register, trading platform, btc, xrp, eth, No KYC",
@@ -1828,7 +1828,7 @@ writeToLangDic({
   "07a133": "Join BitYaris Telegram Group",
   "05fa6c": "The Most Efficient Crypto Trading",
   "4b0dcc": "Register and grab your $8,800 Welcome Rewards now",
-  "32c521": "Mint BitYaris Soul Pass & Access 100 Million xPT Airdrop!",
+  "32c521": "Mint BitYaris Soul Pass & Access 100 Million xTOKEN Airdrop!",
   "2e548e": "Make a deposit and trade to get even more.",
   "78740f": "Or",
   cd8325: "Sign up with Google",
@@ -2007,10 +2007,10 @@ writeToLangDic({
   "21852d": "On-chain passport to our web3 ecosystem",
   ec77ec: "BitYaris Token Benefits",
   "502c44": "Platform Utility Token with Unlimited Benefits",
-  "074377": "xPT Pre-mining",
+  "074377": "xTOKEN Pre-mining",
   "5289bb": "1000 BTC Giveaway",
   c8cf01: "Predict Bitcoin Price, Share 1000 BTC!!!",
-  "0603cd": "Get early token access via xPT airdrops",
+  "0603cd": "Get early token access via xTOKEN airdrops",
   e00fd5: "100 ETH Giveaway",
   "1b4846": "10 lucky PSP holders each win 10 ETH",
   f946fa: "Learn all about BitYaris Web3",
@@ -2416,14 +2416,14 @@ writeToLangDic({
   "8d53e2": "Auto-Conversion to USDT",
   bffdd3: "User Promotion",
   e5afc6: "Referral",
-  "97fba9": "xPT Pre-Mining",
+  "97fba9": "xTOKEN Pre-Mining",
   fbd117: "Credit/Debit Card Buy",
   "9daea5": "Credit/Debit Card Sell",
   "33f79a": "Transfer(Trading Bots)",
   af582e: "Trading Account Transfer",
   ebc2e4: "Spot Trading (UTA)",
   df41a5: "Margin Trading (UTA)",
-  d0bffd: "xPT Convert",
+  d0bffd: "xTOKEN Convert",
   "9cf37f": "Trading Rewards",
   e46cf1: "Stake",
   c9e91e: "Stake Redeem",
@@ -2907,7 +2907,7 @@ writeToLangDic({
   afcf48: "Connect Wallet Your passport to access special privileges",
   "46c96b": "One-click link wallet, enter the decentralized world",
   "42526a":
-    "xPT Pre-ming to access special privileges within the BitYaris Web3.0 ecosystem",
+    "xTOKEN Pre-ming to access special privileges within the BitYaris Web3.0 ecosystem",
   cc2c61: "Go Trade Now",
   "07ac14": "Action",
   "4d3c87": "Deposit",

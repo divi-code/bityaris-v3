@@ -99,7 +99,7 @@ writeToLangDic({
   "76b105": "BitYaris Web3",
   a9fd04: "BitYaris Soul Pass",
   c8c6e9: "Governance via BitYaris DAO",
-  f4473d: "Earn and Hold xPT",
+  f4473d: "Earn and Hold xTOKEN",
   "9e3442": "Earn and Hold ",
   "8cbca4": "Smart Contract",
   "4160a7": "Join BitYaris Discord to get whitelisted",
@@ -111,12 +111,12 @@ writeToLangDic({
   be24d9: "Data",
   "1dbf27": "Share",
   "93123c": "Learn more",
-  "1c5af4": "xPT Balance",
+  "1c5af4": "xTOKEN Balance",
   "1cdd74": "History",
   "1d9bd3": "Copied",
   "4618fc": "Failed",
   "01dcc3":
-    "xPT serves as pre-mine tokens that can be converted to on-chain  tokens during TGE. It is encoded as metadata on the BitYaris Soul Pass.",
+    "xTOKEN serves as pre-mine tokens that can be converted to on-chain  tokens during TGE. It is encoded as metadata on the BitYaris Soul Pass.",
   ca13f8: "Invite Friends",
   "56caa0":
     "Invite your friends to mint their BitYaris Soul Pass, join the BitYaris ecosystem and get early token access!",
@@ -125,7 +125,7 @@ writeToLangDic({
   "73c77d": "Mint your PSP to embark on your BitYaris Web3 adventure",
   "841cc8": "Referral Code",
   b19c78:
-    "I have minted my soul pass on BitYaris. Mint your web3 identity soul pass for free and start pre-mining xPT.",
+    "I have minted my soul pass on BitYaris. Mint your web3 identity soul pass for free and start pre-mining xTOKEN.",
   ab2f12: "Top Trader",
   "1a61c0": "Soul Pass",
   "00f02b": "Minting...",
