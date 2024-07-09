@@ -1,1 +1,136 @@
-.header-place.svelte-1p520af{border-bottom:1px solid #eee;height:64px;min-height:64px;background-color:#fff}@media screen and (max-width: 640px){.header-place.svelte-1p520af{height:unset;min-height:unset}}.media.svelte-1nagd9c a.svelte-1nagd9c{margin-bottom:12px;width:25%}.media.svelte-1nagd9c img.svelte-1nagd9c:hover{opacity:.8}.wrap.svelte-g5kiyy{padding:0 40px 80px}.line.svelte-g5kiyy{margin:0 24px;height:1px;background:#152633}.animation.svelte-g5kiyy{transform:rotate(180deg);-moz-transform:rotate(180deg);-webkit-transform:rotate(180deg)}.arrow.svelte-g5kiyy{animation-duration:2s;animation-timing-function:ease-in-out;animation-iteration-count:infinite;animation-name:svelte-g5kiyy-movement}@keyframes svelte-g5kiyy-movement{0%{transform:translate(0)}70%{transform:translateY(8px)}to{transform:translate(0)}}@media screen and (max-width: 640px){.wrap.svelte-g5kiyy{margin-top:24px;padding:0 16px}}.wrap.svelte-10fxq71.svelte-10fxq71{background:#0e1421}.main.svelte-10fxq71.svelte-10fxq71{margin:0 auto;box-sizing:border-box;padding:48px 0;width:1200px}.box.svelte-10fxq71.svelte-10fxq71{padding:0 10px;line-height:2}.logo.svelte-10fxq71.svelte-10fxq71{margin-right:48px;box-sizing:border-box;width:240px}.box.svelte-10fxq71 ul li a.svelte-10fxq71{display:inline-block;width:100%}.ga.svelte-10fxq71.svelte-10fxq71{min-width:142px;color:#fff;opacity:.6}.ga.svelte-10fxq71.svelte-10fxq71:hover{opacity:.8}.select.svelte-10fxq71 .white.wrap,.select.svelte-10fxq71 .white.wrap{border:none;background:#14202d}@media screen and (max-width: 640px){.main.svelte-10fxq71.svelte-10fxq71{flex-direction:column-reverse;padding:20px 16px;width:100%}.logo.svelte-10fxq71.svelte-10fxq71{margin-top:40px;margin-right:0;padding:0 48px;width:100%;text-align:center}.box.svelte-10fxq71.svelte-10fxq71{margin-top:24px}li.svelte-10fxq71 a.svelte-10fxq71{height:48px;line-height:48px}}
+.header-place.svelte-1p520af {
+    border-bottom: 1px solid #eee;
+    height: 64px;
+    min-height: 64px;
+    background-color: #fff
+}
+
+@media screen and (max-width: 640px) {
+    .header-place.svelte-1p520af {
+        height: unset;
+        min-height: unset
+    }
+}
+
+.media.svelte-1nagd9c a.svelte-1nagd9c {
+    margin-bottom: 12px;
+    width: 25%
+}
+
+.media.svelte-1nagd9c img.svelte-1nagd9c:hover {
+    opacity: .8
+}
+
+.wrap.svelte-g5kiyy {
+    padding: 0 40px 80px;
+    display: none;
+}
+
+.line.svelte-g5kiyy {
+    margin: 0 24px;
+    height: 1px;
+    background: #152633
+}
+
+.animation.svelte-g5kiyy {
+    transform: rotate(180deg);
+    -moz-transform: rotate(180deg);
+    -webkit-transform: rotate(180deg)
+}
+
+.arrow.svelte-g5kiyy {
+    animation-duration: 2s;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+    animation-name: svelte-g5kiyy-movement
+}
+
+@keyframes svelte-g5kiyy-movement {
+    0% {
+        transform: translate(0)
+    }
+
+    70% {
+        transform: translateY(8px)
+    }
+
+    to {
+        transform: translate(0)
+    }
+}
+
+@media screen and (max-width: 640px) {
+    .wrap.svelte-g5kiyy {
+        margin-top: 24px;
+        padding: 0 16px;
+        display: none;
+    }
+}
+
+.wrap.svelte-10fxq71.svelte-10fxq71 {
+    background: #0e1421
+}
+
+.main.svelte-10fxq71.svelte-10fxq71 {
+    margin: 0 auto;
+    box-sizing: border-box;
+    padding: 48px 0;
+    width: 1200px
+}
+
+.box.svelte-10fxq71.svelte-10fxq71 {
+    padding: 0 10px;
+    line-height: 2
+}
+
+.logo.svelte-10fxq71.svelte-10fxq71 {
+    margin-right: 48px;
+    box-sizing: border-box;
+    width: 240px
+}
+
+.box.svelte-10fxq71 ul li a.svelte-10fxq71 {
+    display: inline-block;
+    width: 100%
+}
+
+.ga.svelte-10fxq71.svelte-10fxq71 {
+    min-width: 142px;
+    color: #fff;
+    opacity: .6
+}
+
+.ga.svelte-10fxq71.svelte-10fxq71:hover {
+    opacity: .8
+}
+
+.select.svelte-10fxq71 .white.wrap,
+.select.svelte-10fxq71 .white.wrap {
+    border: none;
+    background: #14202d
+}
+
+@media screen and (max-width: 640px) {
+    .main.svelte-10fxq71.svelte-10fxq71 {
+        flex-direction: column-reverse;
+        padding: 20px 16px;
+        width: 100%
+    }
+
+    .logo.svelte-10fxq71.svelte-10fxq71 {
+        margin-top: 40px;
+        margin-right: 0;
+        padding: 0 48px;
+        width: 100%;
+        text-align: center
+    }
+
+    .box.svelte-10fxq71.svelte-10fxq71 {
+        margin-top: 24px
+    }
+
+    li.svelte-10fxq71 a.svelte-10fxq71 {
+        height: 48px;
+        line-height: 48px
+    }
+}
