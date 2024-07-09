@@ -3617,6 +3617,7 @@ wcm-modal {
     box-sizing: border-box;
     padding: 12px 8px;
     width: 394px;
+    display: none;
     background: #fff;
     cursor: default;
     box-shadow: 0 0 20px #ccc6
@@ -3644,6 +3645,7 @@ wcm-modal {
     box-sizing: border-box;
     padding: 12px 8px;
     width: 400px;
+    display: none;
     background: #fff;
     cursor: default;
     box-shadow: 0 0 20px #ccc6
@@ -3908,7 +3910,6 @@ section.svelte-1nc6bt {
 
 .icon-con.svelte-u1nusg.svelte-u1nusg {
     box-sizing: border-box;
- /*   display: none;*/
     height: 64px
 }
 

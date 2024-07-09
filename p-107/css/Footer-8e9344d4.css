@@ -4666,12 +4666,14 @@ a.svelte-nkgkpg img.svelte-nkgkpg {
 
 .item.svelte-1a17egd {
     box-sizing: border-box;
-    padding: 12px 8px
+    padding: 12px 8px;
+    display: none;
 }
 
 .item.svelte-1a17egd:hover {
     border-radius: 8px;
-    background: #f4f6fb
+    background: #f4f6fb;
+    display: none;
 }
 
 .announce-con.svelte-1a17egd {
@@ -4792,7 +4794,6 @@ section.svelte-1nc6bt {
 .icon-con.svelte-u1nusg.svelte-u1nusg {
     box-sizing: border-box;
     height: 64px;
-    display: none;
 }
 
 .icon-con.svelte-u1nusg:hover .circle-icon.svelte-u1nusg {
