@@ -4273,9 +4273,9 @@ const _t = {
     PHEMEX_GETTING_STARTED: "/getting-started",
     PHEMEX_HELP_CENTER: "/help-center",
     PHEMEX_ACADEMY: "/academy",
-    PHEMEX_REFERENCES_ANNOUNCEMENTS: "/announcements",
+    PHEMEX_REFERENCES_ANNOUNCEMENTS: "/",
     PHEMEX_30D_LV3_ANNOUNCEMENTS:
-      "/announcements/limited-time-discount-on-your-new-spot-trading-fees",
+      "/limited-time-discount-on-your-new-spot-trading-fees",
     PHEMEX_P2P_MERCHANT_ANNOUNCEMENTS:
       "/announcements/hot-recruits-be-a-p2p-merchant",
     PHEMEX_REFERENCES_PRIVACY_POLICY: "/help-center/phemex-privacy-policy",
@@ -4375,33 +4375,33 @@ const _t = {
     PHEMEX_TESTNET: "https://testnet.phemex.com",
     PHEMEX_API_DOC: "https://phemex-docs.github.io/#overview",
     ACCOUNT: "/help-center/how-do-i-verify-my-account-kyc",
-    PHEMEX_FACEBOOK: "https://www.facebook.com/Phemex.official",
-    PHEMEX_FACEBOOK_KO: "https://www.facebook.com/PhemexKorea/",
-    PHEMEX_FACEBOOK_DE: "https://www.facebook.com/PhemexTradingakademie",
+    PHEMEX_FACEBOOK: "https://www.facebook.com/Bityaris.official",
+    PHEMEX_FACEBOOK_KO: "https://www.facebook.com/BityarisKorea/",
+    PHEMEX_FACEBOOK_DE: "https://www.facebook.com/BityarisTradingakademie",
     PHEMEX_FACEBOOK_ES:
-      "https://www.facebook.com/Phemex-en-Español-103459348698599",
+      "https://www.facebook.com/Bityaris-en-Español-103459348698599",
     PHEMEX_FACEBOOK_VI: "https://www.facebook.com/phemexvietnam/",
-    PHEMEX_TELEGRAM: "https://t.me/Phemex_EN",
-    PHEMEX_TELEGRAM_JA: "https://t.me/Phemex_Japanese",
-    PHEMEX_TELEGRAM_RU: "https://t.me/Phemex_Russian",
-    PHEMEX_TELEGRAM_KO: "https://t.me/Phemex_Korean",
-    PHEMEX_TELEGRAM_DE: "https://t.me/Phemex_German",
-    PHEMEX_TELEGRAM_TR: "https://t.me/Phemex_Turkey",
-    PHEMEX_TELEGRAM_ES: "https://t.me/Phemex_Spanish",
+    PHEMEX_TELEGRAM: "https://t.me/Bityaris_EN",
+    PHEMEX_TELEGRAM_JA: "https://t.me/Bityaris_Japanese",
+    PHEMEX_TELEGRAM_RU: "https://t.me/Bityaris_Russian",
+    PHEMEX_TELEGRAM_KO: "https://t.me/Bityaris_Korean",
+    PHEMEX_TELEGRAM_DE: "https://t.me/Bityaris_German",
+    PHEMEX_TELEGRAM_TR: "https://t.me/Bityaris_Turkey",
+    PHEMEX_TELEGRAM_ES: "https://t.me/Bityaris_Spanish",
     PHEMEX_TELEGRAM_PT: "https://t.me/phemexbrasil",
     PHEMEX_TELEGRAM_VI: "https://t.me/phemexvietnam",
-    PHEMEX_TWITTER: "https://x.com/Phemex_official",
-    PHEMEX_TWITTER_RU: "https://x.com/PhemexR",
+    PHEMEX_TWITTER: "https://x.com/Bityaris_official",
+    PHEMEX_TWITTER_RU: "https://x.com/BityarisR",
     PHEMEX_TWITTER_KO: "https://x.com/phemex_Korean",
-    PHEMEX_TWITTER_JA: "https://x.com/PhemexJP",
+    PHEMEX_TWITTER_JA: "https://x.com/BityarisJP",
     PHEMEX_TWITTER_PULSE: "https://x.com/Pulse_SocialFi",
-    PHEMEX_TWITTER_ES: "https://x.com/PhemexSpanish",
-    PHEMEX_TWITTER_DE: "https://x.com/Phemex_German",
-    PHEMEX_TWITTER_FR: "https://x.com/FrancePhemex",
-    PHEMEX_TWITTER_TR: "https://x.com/PhemexTurkish",
-    PHEMEX_TWITTER_PT: "https://x.com/PhemexBrasil",
+    PHEMEX_TWITTER_ES: "https://x.com/BityarisSpanish",
+    PHEMEX_TWITTER_DE: "https://x.com/Bityaris_German",
+    PHEMEX_TWITTER_FR: "https://x.com/FranceBityaris",
+    PHEMEX_TWITTER_TR: "https://x.com/BityarisTurkish",
+    PHEMEX_TWITTER_PT: "https://x.com/BityarisBrasil",
     PHEMEX_TWITTER_VI:
-      "https://x.com/PhemexVietNam?t=e6HyLlAhw4hlkRZuvQMYjQ&s=09",
+      "https://x.com/BityarisVietNam?t=e6HyLlAhw4hlkRZuvQMYjQ&s=09",
     PHEMEX_INSTAGRAM_TR: "https://www.instagram.com/phemexturkey/",
     PHEMEX_INSTAGRAM_EN: "https://www.instagram.com/phemexofficial/?hl=en",
     PHEMEX_INSTAGRAM_RU: "https://www.instagram.com/phemexrussia/",
@@ -4418,12 +4418,12 @@ const _t = {
     PHEMEX_NAVER_KO: "https://blog.naver.com/phemex2019",
     PHEMEX_VK_RU: "https://vk.com/phemex_official",
     PHEMEX_SNAP_CHAT_EN:
-      "https://www.youtube.com/watch?v=4uoW6FIktnI&feature=youtu.be&ab_channel=Phemex",
+      "https://www.youtube.com/watch?v=4uoW6FIktnI&feature=youtu.be&ab_channel=Bityaris",
     PHEMEX_SNAP_CHAT_CN:
       "https://www.bilibili.com/video/BV16v4111711?from=search&seid=15351043342164340238",
     PHEMEX_MICROBLOG: "https://www.weibo.com/u/7444696088?is_all=1",
     PHEMEX_DISCORD: "https://discord.gg/bityarisofficial",
-    PHEMEX_TV: "https://www.tradingview.com/broker/Phemex/",
+    PHEMEX_TV: "https://www.tradingview.com/broker/Bityaris/",
     PHEMEX_BONUS_FORM:
       "https://docs.google.com/forms/d/e/1FAIpQLSeF9Nyb6FBy5LDOTDb0TElBbFeSBgFHWYr7h7d9T-NzAvK5tw/viewform",
     PHEMEX_BONUS_FORM_RU:
@@ -4487,9 +4487,9 @@ const _t = {
     TRADING_COMPETITION_CRIPTONOTICIAS: "https://www.criptonoticias.com/",
     TRADING_COMPETITION_COINTELEGRAPH: "https://cointelegraph.com/",
     TRADING_COMPETITION_DIARIOBITCOIN: "https://www.diariobitcoin.com/",
-    PHEMEX_ANNIVERSARY: "https://anniversary.phemex.com",
-    PHEMEX_TR: "https://phemex.com.tr/",
-    PHEMEX_TR_DOWNLOAD: "https://phemex.com.tr/indir",
+    PHEMEX_ANNIVERSARY: "https://anniversary.pulse.com",
+    PHEMEX_TR: "https://pulse.com.tr/",
+    PHEMEX_TR_DOWNLOAD: "https://pulse.com.tr/indir",
     PHEMEX_JOBS: "https://www.linkedin.com/company/phemex/jobs/",
     ONFIDO_INFORMATION_SECURITY:
       "https://onfido.com/privacy/#Information%20Security",
@@ -4498,10 +4498,10 @@ const _t = {
     FEEDBACK: "https://phemex.zendesk.com/hc/en-us/requests/new",
     EDUCATION: "https://www.youtube.com/embed/EubnhoQVVjo",
     LAUNCH_POOL_WEBSITE: "https://www.vlaunch.com/",
-    LAUNCH_POOL_RULES: "https://phemex.com/announcements",
+    LAUNCH_POOL_RULES: "https://pulse.com/announcements",
     LAUNCH_PAD_YOUTUBE: "https://www.youtube.com/watch?v=hOtrd2BFR_w",
     ZERO_FEE_RULE:
-      "https://phemex.com/announcements/celebrate-phemex-3rd-anniversary-with-zero-fee-spot-trading",
+      "https://pulse.com/announcements/celebrate-phemex-3rd-anniversary-with-zero-fee-spot-trading",
     ALL_STAR_VIDEO_ID: "S_ipJMLGILA",
     ALL_STAR_VIDEO_ID_JA: "4q2JdlXsS2U",
     PRICE_PAGE_DETAIL: "/markets/price/",
@@ -4509,7 +4509,7 @@ const _t = {
       "https://gleam.io/FekbV/phemex-3rd-anniversary-celebrate-with-kevin-de-bruyne",
     KEVIN_FEKBV_PLAY: "https://www.instagram.com/ar/1503485796786888/",
     USER_GUIDE_ON_VOUCHERS:
-      "https://phemex.com/help-center/what-are-cashback-vouchers-and-cards",
+      "https://pulse.com/help-center/what-are-cashback-vouchers-and-cards",
     ALL_STAR_ANNOUNCEMENT:
       "/announcements/november-referral-friends-get-up-to-350-airdrop-per-referral",
     APP_STORE_LINK: "https://itunes.apple.com/us/app/itunes-u/id6444693051",
@@ -4529,10 +4529,10 @@ const _t = {
     WITHDRAW_ADDRESS: "https://space.id/",
     CHAINLINK: "https://docs.chain.link/vrf/v2/introduction",
     TERMS_AND_CONDITIONS_LINK:
-      "https://phemex.com/announcements/invite-your-friends-and-earn-up-to-5100-phemex-tokens",
+      "https://pulse.com/announcements/invite-your-friends-and-earn-up-to-5100-phemex-tokens",
     SOUL_PASS: "/web3/soulpass",
     MAKET_MAKER:
-      "https://phemex.com/announcements/phemex-market-maker-program-is-here-calling-all-liquidity-providers",
+      "https://pulse.com/announcements/phemex-market-maker-program-is-here-calling-all-liquidity-providers",
     UPDATE_PHEMEX_TOKEN:
       "/announcements/updates-on-phemex-token-launch-and-xpt-pre-mining-stage-4",
     HOW_CAN_SET_SPOT_GRID:
@@ -4544,19 +4544,19 @@ const _t = {
     MAINTENANCE_MARGINS:
       "/help-center/what-are-initial-and-maintenance-margins",
     HOW_TO_ENABLE_WITHDRAWAL:
-      "https://phemex.com/help-center/how-to-enable-withdrawal-whitelist-new-address-lock(web)",
+      "https://pulse.com/help-center/how-to-enable-withdrawal-whitelist-new-address-lock(web)",
     FREQUENTLY_ASKED_QUESTIONS_WITHDRAWALS:
-      "https://phemex.com/help-center/FAQ-on-withdrawals",
+      "https://pulse.com/help-center/FAQ-on-withdrawals",
     WEB3_APPLY_MODERATOR_RULE_MORE:
-      "https://phemex.com/announcements/pulse-next-generation-become-a-moderator-and-curate-your-community-for-rewards",
+      "https://pulse.com/announcements/pulse-next-generation-become-a-moderator-and-curate-your-community-for-rewards",
     HOW_TO_USE_PHEMEX:
       "/help-center/how-do-i-download-phemex-account-statements-reports",
     WEB3_PULSE_PT_REWARDS_SEE_DETAILS:
-      "https://phemex.com/announcements/introducing-the-pulse-new-era-mystery-boxes-enhanced-interface-and-more",
+      "https://pulse.com/announcements/introducing-the-pulse-new-era-mystery-boxes-enhanced-interface-and-more",
     WEB3_PULSE_BIND_DETAIL:
-      "https://phemex.com/announcements/pulse-as-an-individual-product",
+      "https://pulse.com/announcements/pulse-as-an-individual-product",
     WEB3_PULSE_INDIVIDUAL_PRODUCT:
-      "https://phemex.com/announcements/pulse-as-an-individual-product",
+      "https://pulse.com/announcements/pulse-as-an-individual-product",
   },
   OC = [
     "/support",
@@ -53570,12 +53570,12 @@ function Zg(e) {
       A(t, "name", "twitter:card"),
         A(t, "content", "summary_large_image"),
         A(r, "name", "twitter:site"),
-        A(r, "content", "@Phemex_official"),
+        A(r, "content", "@Bityaris_official"),
         A(i, "name", "twitter:title"),
         A(
           i,
           "content",
-          "Phemex: Buy & Sell Crypto | Trade BTC and Crypto Derivatives"
+          "Bityaris: Buy & Sell Crypto | Trade BTC and Crypto Derivatives"
         ),
         A(o, "name", "twitter:image"),
         A(o, "content", _a.OG_NORMAL);
@@ -53625,13 +53625,13 @@ function e1(e) {
         A(
           t,
           "content",
-          "Phemex: Buy & Sell Crypto | Trade BTC and Crypto Derivatives"
+          "Bityaris: Buy & Sell Crypto | Trade BTC and Crypto Derivatives"
         ),
         A(r, "name", "og:description"),
         A(
           r,
           "content",
-          "Phemex is the fastest crypto exchange and crypto derivatives platform. Buy, Sell & Earn Bitcoin, Ether, & altcoin. Trade perpetual contracts with 100x Leverage."
+          "Bityaris is the fastest crypto exchange and crypto derivatives platform. Buy, Sell & Earn Bitcoin, Ether, & altcoin. Trade perpetual contracts with 100x Leverage."
         ),
         A(i, "name", "og:image"),
         A(i, "content", _a.OG_NORMAL);

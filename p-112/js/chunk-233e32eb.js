@@ -1050,7 +1050,7 @@ const L = {
   WelcomeBonus: "82432d",
   AllStarProgram: "01c850",
   Company: "d8c7aa",
-  Announcements: "876fec",
+  Announcement: "876fec",
   Assets: "8d5ce8",
   Account: "5e9763",
   LogIn: "e8b1f8",
