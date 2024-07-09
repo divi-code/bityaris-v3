@@ -345,7 +345,7 @@ function Pc(e) {
   };
 }
 const jr =
-  '<a href="mailto:support@phemex.zendesk.com">support@phemex.zendesk.com</a>';
+  '<a href="mailto:"></a>';
 function Rc(e, t, n) {
   let r, s, o;
   Me(e, ii, (l) => n(4, (r = l))),

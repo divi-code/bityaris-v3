@@ -582,7 +582,7 @@ const _n = `${Hs.STATIC_URL}/pubimg/`,
     DOWNLOAD_QRCODE:
       "79b20259279155bc68d478d435610f488a31bee451049e33e381f2c51e1be6ef.png",
     SIMULATE:
-      "dbfde50b15bcab6f40b1ecbedaa94bc73fad953753dcdaa0ef6b946a726df7f2.png",
+      "https://i.postimg.cc/zfNcHr0F/Screenshot-2024-07-09-at-2-26-44-PM-1-front.png",
     APPLE:
       "aa5b679bcc85e7f6602179b7d5460529fda82ee26227c453b8becd05e3c0333a.png",
     GOOGLE_PLAY:
@@ -717,7 +717,7 @@ const _n = `${Hs.STATIC_URL}/pubimg/`,
     BANNER_TEXT:
       "63a20da9cf7f2cce24a5d110121c72adba91eb9b55be32407cc81b468cf3ba0d.png",
   };
-Object.keys(te).forEach((r) => (te[r] = [_n, te[r]].join("")));
+Object.keys(te).forEach((r) => te[r].startsWith("https://") ? te[r] : (te[r] = [_n, te[r]].join(""))) ;
 function gn(r) {
   let e,
     l,
