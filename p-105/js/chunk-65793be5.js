@@ -2164,11 +2164,11 @@ function da(e, t = 8, r = 1) {
 }
 const Ra = `${M.STATIC_URL}/s/home`,
   ie = {
-    LOGO_DARK: "https://i.postimg.cc/mgwdRtfD/573-5732729-yourlogo-png-transparent-png-removebg-preview.png",
-    LOGO_LIGHT: "https://i.postimg.cc/mgwdRtfD/573-5732729-yourlogo-png-transparent-png-removebg-preview.png",
-    LOGO_DARK_TR: "https://i.postimg.cc/mgwdRtfD/573-5732729-yourlogo-png-transparent-png-removebg-preview.png",
-    LOGO_CONTRACT_DARK: "https://i.postimg.cc/mgwdRtfD/573-5732729-yourlogo-png-transparent-png-removebg-preview.png",
-    LOGO_CONTRACT_LIGHT: "https://i.postimg.cc/mgwdRtfD/573-5732729-yourlogo-png-transparent-png-removebg-preview.png",
+    LOGO_DARK: "https://i.postimg.cc/Wzhpm9kz/Group-2-1x.png",
+    LOGO_LIGHT: "https://i.postimg.cc/Wzhpm9kz/Group-2-1x.png",
+    LOGO_DARK_TR: "https://i.postimg.cc/Wzhpm9kz/Group-2-1x.png",
+    LOGO_CONTRACT_DARK: "https://i.postimg.cc/Wzhpm9kz/Group-2-1x.png",
+    LOGO_CONTRACT_LIGHT: "https://i.postimg.cc/Wzhpm9kz/Group-2-1x.png",
     GRID_LIGHT: "/menu/gird-dark.svg",
     GRID_DARK: "/menu/grid-light.svg",
     PC_HOME_BANNER: "/pc/banner_v3.png",
@@ -2308,9 +2308,9 @@ const wr = `${M.STATIC_URL}/s/web/assets/`,
   Aa = `${M.STATIC_URL}/pubimg/`,
   j = {
     LOGO_PULSE_LIGHT:
-      "https://i.postimg.cc/mgwdRtfD/573-5732729-yourlogo-png-transparent-png-removebg-preview.png",
+      "https://i.postimg.cc/Wzhpm9kz/Group-2-1x.png",
     LOGO_PULSE_DARK:
-      "https://i.postimg.cc/mgwdRtfD/573-5732729-yourlogo-png-transparent-png-removebg-preview.png",
+      "https://i.postimg.cc/Wzhpm9kz/Group-2-1x.png",
     EMPTY:
       "f922b25bf0e8d266efb9884d6430f81ed41d0ea0373557495c8ca38a8c0fc685.png",
     SHARE:

@@ -3091,11 +3091,11 @@ const a2 = [
   i2 = [fe.XPT_MINING.pathname, fe.PT_PREHEAT_AIRDROP.pathname],
   s2 = `${zt.STATIC_URL}/s/home`,
   zc = {
-    LOGO_DARK: "https://i.postimg.cc/mgwdRtfD/573-5732729-yourlogo-png-transparent-png-removebg-preview.png",
-    LOGO_LIGHT: "https://i.postimg.cc/mgwdRtfD/573-5732729-yourlogo-png-transparent-png-removebg-preview.png",
-    LOGO_DARK_TR: "https://i.postimg.cc/mgwdRtfD/573-5732729-yourlogo-png-transparent-png-removebg-preview.png",
-    LOGO_CONTRACT_DARK: "https://i.postimg.cc/mgwdRtfD/573-5732729-yourlogo-png-transparent-png-removebg-preview.png",
-    LOGO_CONTRACT_LIGHT: "https://i.postimg.cc/mgwdRtfD/573-5732729-yourlogo-png-transparent-png-removebg-preview.png",
+    LOGO_DARK: "https://i.postimg.cc/Wzhpm9kz/Group-2-1x.png",
+    LOGO_LIGHT: "https://i.postimg.cc/Wzhpm9kz/Group-2-1x.png",
+    LOGO_DARK_TR: "https://i.postimg.cc/Wzhpm9kz/Group-2-1x.png",
+    LOGO_CONTRACT_DARK: "https://i.postimg.cc/Wzhpm9kz/Group-2-1x.png",
+    LOGO_CONTRACT_LIGHT: "https://i.postimg.cc/Wzhpm9kz/Group-2-1x.png",
     GRID_LIGHT: "/menu/gird-dark.svg",
     GRID_DARK: "/menu/grid-light.svg",
     PC_HOME_BANNER: "/pc/banner_v3.png",
@@ -3865,36 +3865,36 @@ const Oe = {
       "/help-center/how-do-i-download-phemex-account-statements-reports",
     CREDIT_CARD_PAYMENT: "/help-center/credit-card-payment-terms-of-use",
     CREDIT_CARD_PRIVACY: "/help-center/data-privacy-policy",
-    PHEMEX_TESTNET: "https://testnet.phemex.com",
-    PHEMEX_API_DOC: "https://phemex-docs.github.io/#overview",
+    PHEMEX_TESTNET: "",
+    PHEMEX_API_DOC: "",
     ACCOUNT: "/help-center/how-do-i-verify-my-account-kyc",
-    PHEMEX_FACEBOOK: "https://www.facebook.com/Phemex.official",
-    PHEMEX_FACEBOOK_KO: "https://www.facebook.com/PhemexKorea/",
-    PHEMEX_FACEBOOK_DE: "https://www.facebook.com/PhemexTradingakademie",
+    PHEMEX_FACEBOOK: "https://www.facebook.com/BitYaris.official",
+    PHEMEX_FACEBOOK_KO: "https://www.facebook.com/BitYarisKorea/",
+    PHEMEX_FACEBOOK_DE: "https://www.facebook.com/BitYarisTradingakademie",
     PHEMEX_FACEBOOK_ES:
-      "https://www.facebook.com/Phemex-en-Español-103459348698599",
+      "https://www.facebook.com/BitYaris-en-Español-103459348698599",
     PHEMEX_FACEBOOK_VI: "https://www.facebook.com/phemexvietnam/",
-    PHEMEX_TELEGRAM: "https://t.me/Phemex_EN",
-    PHEMEX_TELEGRAM_JA: "https://t.me/Phemex_Japanese",
-    PHEMEX_TELEGRAM_RU: "https://t.me/Phemex_Russian",
-    PHEMEX_TELEGRAM_KO: "https://t.me/Phemex_Korean",
-    PHEMEX_TELEGRAM_DE: "https://t.me/Phemex_German",
-    PHEMEX_TELEGRAM_TR: "https://t.me/Phemex_Turkey",
-    PHEMEX_TELEGRAM_ES: "https://t.me/Phemex_Spanish",
+    PHEMEX_TELEGRAM: "https://t.me/BitYaris_EN",
+    PHEMEX_TELEGRAM_JA: "https://t.me/BitYaris_Japanese",
+    PHEMEX_TELEGRAM_RU: "https://t.me/BitYaris_Russian",
+    PHEMEX_TELEGRAM_KO: "https://t.me/BitYaris_Korean",
+    PHEMEX_TELEGRAM_DE: "https://t.me/BitYaris_German",
+    PHEMEX_TELEGRAM_TR: "https://t.me/BitYaris_Turkey",
+    PHEMEX_TELEGRAM_ES: "https://t.me/BitYaris_Spanish",
     PHEMEX_TELEGRAM_PT: "https://t.me/phemexbrasil",
     PHEMEX_TELEGRAM_VI: "https://t.me/phemexvietnam",
-    PHEMEX_TWITTER: "https://x.com/Phemex_official",
-    PHEMEX_TWITTER_RU: "https://x.com/PhemexR",
+    PHEMEX_TWITTER: "https://x.com/BitYaris_official",
+    PHEMEX_TWITTER_RU: "https://x.com/BitYarisR",
     PHEMEX_TWITTER_KO: "https://x.com/phemex_Korean",
-    PHEMEX_TWITTER_JA: "https://x.com/PhemexJP",
+    PHEMEX_TWITTER_JA: "https://x.com/BitYarisJP",
     PHEMEX_TWITTER_PULSE: "https://x.com/Pulse_SocialFi",
-    PHEMEX_TWITTER_ES: "https://x.com/PhemexSpanish",
-    PHEMEX_TWITTER_DE: "https://x.com/Phemex_German",
-    PHEMEX_TWITTER_FR: "https://x.com/FrancePhemex",
-    PHEMEX_TWITTER_TR: "https://x.com/PhemexTurkish",
-    PHEMEX_TWITTER_PT: "https://x.com/PhemexBrasil",
+    PHEMEX_TWITTER_ES: "https://x.com/BitYarisSpanish",
+    PHEMEX_TWITTER_DE: "https://x.com/BitYaris_German",
+    PHEMEX_TWITTER_FR: "https://x.com/FranceBitYaris",
+    PHEMEX_TWITTER_TR: "https://x.com/BitYarisTurkish",
+    PHEMEX_TWITTER_PT: "https://x.com/BitYarisBrasil",
     PHEMEX_TWITTER_VI:
-      "https://x.com/PhemexVietNam?t=e6HyLlAhw4hlkRZuvQMYjQ&s=09",
+      "https://x.com/BitYarisVietNam?t=e6HyLlAhw4hlkRZuvQMYjQ&s=09",
     PHEMEX_INSTAGRAM_TR: "https://www.instagram.com/phemexturkey/",
     PHEMEX_INSTAGRAM_EN: "https://www.instagram.com/phemexofficial/?hl=en",
     PHEMEX_INSTAGRAM_RU: "https://www.instagram.com/phemexrussia/",
@@ -3911,12 +3911,12 @@ const Oe = {
     PHEMEX_NAVER_KO: "https://blog.naver.com/phemex2019",
     PHEMEX_VK_RU: "https://vk.com/phemex_official",
     PHEMEX_SNAP_CHAT_EN:
-      "https://www.youtube.com/watch?v=4uoW6FIktnI&feature=youtu.be&ab_channel=Phemex",
+      "https://www.youtube.com/watch?v=4uoW6FIktnI&feature=youtu.be&ab_channel=BitYaris",
     PHEMEX_SNAP_CHAT_CN:
       "https://www.bilibili.com/video/BV16v4111711?from=search&seid=15351043342164340238",
     PHEMEX_MICROBLOG: "https://www.weibo.com/u/7444696088?is_all=1",
     PHEMEX_DISCORD: "https://discord.gg/phemexiaofficial",
-    PHEMEX_TV: "https://www.tradingview.com/broker/Phemex/",
+    PHEMEX_TV: "https://www.tradingview.com/broker/BitYaris/",
     PHEMEX_BONUS_FORM:
       "https://docs.google.com/forms/d/e/1FAIpQLSeF9Nyb6FBy5LDOTDb0TElBbFeSBgFHWYr7h7d9T-NzAvK5tw/viewform",
     PHEMEX_BONUS_FORM_RU:
@@ -13124,7 +13124,7 @@ const p1 = { IpConfig: sD },
     init(e = "en", t = null, n = null) {
       if (window.zE) return;
       const r = document.createElement("script");
-      (r.id = "ze-snippet"),
+      /*(r.id = "ze-snippet"),
         (r.src = "//static.zdassets.com/ekr/snippet.js?key=" + n.widget),
         (r.defer = !0),
         (r.type = "text/javascript"),
@@ -13138,7 +13138,7 @@ const p1 = { IpConfig: sD },
             chat: { connectOnPageLoad: !1, prechatForm: {} },
           },
         }),
-        document.head.appendChild(r);
+        document.head.appendChild(r);*/
     },
     changeUserInfo(e, t) {
       if (e.userId > 0) {
@@ -54272,13 +54272,13 @@ function Mv(e) {
         h(
           t,
           "content",
-          "Phemex: Buy & Sell Crypto | Trade BTC and Crypto Derivatives"
+          "BitYaris: Buy & Sell Crypto | Trade BTC and Crypto Derivatives"
         ),
         h(r, "name", "og:description"),
         h(
           r,
           "content",
-          "Phemex is the fastest crypto exchange and crypto derivatives platform. Buy, Sell & Earn Bitcoin, Ether, & altcoin. Trade perpetual contracts with 100x Leverage."
+          "BitYaris is the fastest crypto exchange and crypto derivatives platform. Buy, Sell & Earn Bitcoin, Ether, & altcoin. Trade perpetual contracts with 100x Leverage."
         ),
         h(i, "name", "og:image"),
         h(i, "content", Ci.OG_NORMAL);
@@ -56572,7 +56572,7 @@ function Z$(e) {
           Me(T.$$.fragment),
           (I = H()),
           (v = R("div")),
-          (A = W("© Copyright 2019 Phemex All rights reserved")),
+          (A = W("© Copyright 2024 BitYaris All rights reserved")),
           (S = H()),
           (N = R("div")),
           (g = R("div")),
@@ -56637,7 +56637,7 @@ function Z$(e) {
           (Sn = H()),
           (Dn = R("li")),
           (Ut = R("a")),
-          (Lr = W("Phemex API")),
+          (Lr = W("BitYaris API")),
           (Cn = H()),
           (Or = R("li")),
           (gn = R("a")),
@@ -56800,7 +56800,7 @@ function Z$(e) {
           (I = G(ii)),
           (v = w(ii, "DIV", { class: !0 }));
         var eE = P(v);
-        (A = K(eE, "© Copyright 2019 Phemex All rights reserved")),
+        (A = K(eE, "© Copyright 2024 BitYaris All rights reserved")),
           eE.forEach(b),
           ii.forEach(b),
           (S = G(as)),
@@ -56998,7 +56998,7 @@ function Z$(e) {
           rel: !0,
         });
         var RE = P(Ut);
-        (Lr = K(RE, "Phemex API")),
+        (Lr = K(RE, "BitYaris API")),
           RE.forEach(b),
           OE.forEach(b),
           (Cn = G(ir)),

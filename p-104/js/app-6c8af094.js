@@ -2276,7 +2276,7 @@ function xr() {
   return location.origin;
 }
 function kr() {
-  return x.isTestNet ? location.origin : "https://testnet.phemex.com";
+  return x.isTestNet ? location.origin : "https://";
 }
 function fe(t) {
   const r = (n) => (n.split(".").length === 2 ? "." : "-"),

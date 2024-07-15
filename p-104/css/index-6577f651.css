@@ -71,11 +71,13 @@
 
 .wrap.svelte-16gza7f {
     margin-top: -80px;
-    background: #000
+    background: url(https://i.postimg.cc/90NVrW4n/32993445-774418072505-1.png);
+    background-size: cover;
 }
 
 .main.svelte-16gza7f {
     margin: 0 auto;
+   /* background: url(https://i.postimg.cc/90NVrW4n/32993445-774418072505-1.png);*/
     box-sizing: border-box;
     padding: 120px 0 32px;
     width: 1200px;

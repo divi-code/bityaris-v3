@@ -1474,7 +1474,7 @@ const Io = { IpConfig: du },
     init(e = "en", t = null, n = null) {
       if (window.zE) return;
       const r = document.createElement("script");
-      (r.id = "ze-snippet"),
+      /*(r.id = "ze-snippet"),
         (r.src = "//static.zdassets.com/ekr/snippet.js?key=" + n.widget),
         (r.defer = !0),
         (r.type = "text/javascript"),
@@ -1488,7 +1488,7 @@ const Io = { IpConfig: du },
             chat: { connectOnPageLoad: !1, prechatForm: {} },
           },
         }),
-        document.head.appendChild(r);
+        document.head.appendChild(r);*/
     },
     changeUserInfo(e, t) {
       if (e.userId > 0) {

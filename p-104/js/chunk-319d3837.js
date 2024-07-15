@@ -580,7 +580,7 @@ const _n = `${Hs.STATIC_URL}/pubimg/`,
     PRO2: "fdc66dcc900d23a1742d4bef79ee97057ce5fdfda19e86a8da72d995a7d7a71a.png",
     PRO3: "7416dd66d12d14532a92c8e1f84eca7d411587534638c5a70c52890bd019f251.png",
     DOWNLOAD_QRCODE:
-      "79b20259279155bc68d478d435610f488a31bee451049e33e381f2c51e1be6ef.png",
+      "https://i.postimg.cc/VkX6HC0s/F-ando.png",
     SIMULATE:
       "https://i.postimg.cc/zfNcHr0F/Screenshot-2024-07-09-at-2-26-44-PM-1-front.png",
     APPLE:
@@ -1469,12 +1469,12 @@ function An(r) {
           m(u, "class", "title svelte-16gza7f"),
           m(t, "class", "banner-left svelte-16gza7f"),
           m($, "class", "db mr30"),
-          m($, "width", "468"),
-          m($, "height", "374"),
+          m($, "width", "400"),
+          m($, "height", "234"),
           re(
             $.src,
             (T =
-              "https://api2.copycash.com/api/blob/48bd79c1-0e90-4111-b132-6fb89507d820")
+              "https://i.postimg.cc/Cx8NPm4Z/kisspng-can-stock-photo-clip-art-5aec7e882cff55-8274061415254483281843-1x.png")
           ) || m($, "src", T),
           m($, "alt", "Lending Protocol"),
           m(I, "class", "banner-right svelte-16gza7f"),

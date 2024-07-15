@@ -2423,11 +2423,11 @@ class it {
 }
 const AC = `${Nt.STATIC_URL}/s/home`,
   qu = {
-    LOGO_DARK: "https://i.postimg.cc/mgwdRtfD/573-5732729-yourlogo-png-transparent-png-removebg-preview.png",
-    LOGO_LIGHT: "https://i.postimg.cc/mgwdRtfD/573-5732729-yourlogo-png-transparent-png-removebg-preview.png",
-    LOGO_DARK_TR: "https://i.postimg.cc/mgwdRtfD/573-5732729-yourlogo-png-transparent-png-removebg-preview.png",
-    LOGO_CONTRACT_DARK: "https://i.postimg.cc/mgwdRtfD/573-5732729-yourlogo-png-transparent-png-removebg-preview.png",
-    LOGO_CONTRACT_LIGHT: "https://i.postimg.cc/mgwdRtfD/573-5732729-yourlogo-png-transparent-png-removebg-preview.png",
+    LOGO_DARK: "https://i.postimg.cc/Wzhpm9kz/Group-2-1x.png",
+    LOGO_LIGHT: "https://i.postimg.cc/Wzhpm9kz/Group-2-1x.png",
+    LOGO_DARK_TR: "https://i.postimg.cc/Wzhpm9kz/Group-2-1x.png",
+    LOGO_CONTRACT_DARK: "https://i.postimg.cc/Wzhpm9kz/Group-2-1x.png",
+    LOGO_CONTRACT_LIGHT: "https://i.postimg.cc/Wzhpm9kz/Group-2-1x.png",
     GRID_LIGHT: "/menu/gird-dark.svg",
     GRID_DARK: "/menu/grid-light.svg",
     PC_HOME_BANNER: "/pc/banner_v3.png",
@@ -2565,9 +2565,9 @@ const CC = `${Nt.STATIC_URL}/s/web/assets/`,
   IC = `${Nt.STATIC_URL}/pubimg/`,
   _a = {
     LOGO_PULSE_LIGHT:
-      "https://i.postimg.cc/mgwdRtfD/573-5732729-yourlogo-png-transparent-png-removebg-preview.png",
+      "https://i.postimg.cc/Wzhpm9kz/Group-2-1x.png",
     LOGO_PULSE_DARK:
-      "https://i.postimg.cc/mgwdRtfD/573-5732729-yourlogo-png-transparent-png-removebg-preview.png",
+      "https://i.postimg.cc/Wzhpm9kz/Group-2-1x.png",
     EMPTY:
       "f922b25bf0e8d266efb9884d6430f81ed41d0ea0373557495c8ca38a8c0fc685.png",
     SHARE:
@@ -3020,7 +3020,7 @@ const wC = `${Nt.IMG_URL}/v1/`,
     SHARE_BG: "dbf91b70/share-bg.png",
     COPY: "0541141f/copy.png",
     SAVE: "f2e759d5/save.png",
-    LOGO_LIGHT: "https://i.postimg.cc/mgwdRtfD/573-5732729-yourlogo-png-transparent-png-removebg-preview.png",
+    LOGO_LIGHT: "https://i.postimg.cc/Wzhpm9kz/Group-2-1x.png",
     OG: "01eacd71/bots-og.png",
     BOTS_ICON: "9b968b03/bot.png",
     NEWS: "d4f84019/new.png",
@@ -12463,7 +12463,7 @@ const k_ = { IpConfig: pw },
     init(e = "en", t = null, n = null) {
       if (window.zE) return;
       const r = document.createElement("script");
-      (r.id = "ze-snippet"),
+      /*(r.id = "ze-snippet"),
         (r.src = "//static.zdassets.com/ekr/snippet.js?key=" + n.widget),
         (r.defer = !0),
         (r.type = "text/javascript"),
@@ -12477,7 +12477,7 @@ const k_ = { IpConfig: pw },
             chat: { connectOnPageLoad: !1, prechatForm: {} },
           },
         }),
-        document.head.appendChild(r);
+        document.head.appendChild(r);*/
     },
     changeUserInfo(e, t) {
       if (e.userId > 0) {
