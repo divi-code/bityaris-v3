@@ -23148,7 +23148,7 @@ async function pR(e, t) {
   return e.request({ method: "wallet_requestPermissions", params: [t] });
 }
 async function hR(e, { account: t = e.account, message: n }) {
-  n = "'domain' not defined";
+  /*n = || "'domain' not defined";*/
   if (!t) throw new ji({ docsPath: "/docs/actions/wallet/signMessage" });
   const r = mn(t);
   if (r.type === "local") return r.signMessage({ message: n });
