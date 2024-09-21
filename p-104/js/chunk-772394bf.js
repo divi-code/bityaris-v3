@@ -4838,9 +4838,9 @@ const ae = {
       toNew: !0,
     },
     LP_CRYPTO_PLATFORM: { pathname: "/lp-crypto-platform-v2" },
-    LEARN_CRYPTO: { pathname: "/login" },
+    LEARN_CRYPTO: { pathname: "" },
     LEARN_CRYPTO_CRYPTO_FIAT_WHAT_IS_FIAT: {
-      pathname: "/login",
+      pathname: "",
     },
     LEARN_CRYPTO_CRYPTO_FIAT_WHAT_IS_CRYPTO: {
       pathname: "/learn-crypto/crypto-fiat/what-is-crypto",

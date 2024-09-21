@@ -4421,13 +4421,13 @@ li.svelte-1q96dh5 a.svelte-1q96dh5 {
 }
 
 .user-view-left.svelte-17peg7g {
-    flex: 1;
+    flex: 0;
     min-height: 100%
 }
 
 .user-view-right.svelte-17peg7g {
     flex: 1.4;
-    padding-top: 68px;
+    padding-top: 108px;
     min-height: 100%;
     background: #fff;
     gap: 80px

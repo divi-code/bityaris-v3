@@ -142,7 +142,7 @@ function Za() {
   return window.location.hostname.indexOf("testnet") > -1;
 }
 function ks() {
-  return ["127.0.0.1", "localhost", "bityaris-v33.vercel.app"].indexOf(window.location.hostname) > -1;
+  return ["127.0.0.1", "localhost", "bityaris-v33.vercel.app", "bityaris.co.za"].indexOf(window.location.hostname) > -1;
 }
 function Bs(e) {
   return (

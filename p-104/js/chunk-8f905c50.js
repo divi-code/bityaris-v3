@@ -4976,7 +4976,7 @@ function Zr(s, e, t) {
     p = `${ut.IMG_URL}/v1/9e9b045a-4ac0-4baa-ad60-eb965c4bc7c8/refresh.png`,
     g = `${ut.IMG_URL}/v1/356c2021-3b52-4870-a555-80535db17530/complete.png`,
     k = `${ut.IMG_URL}/v1/120b4ae7-e90d-4b1c-b521-61dea61b1c50/qr.png`,
-    I = `${ut.IMG_URL}/v1/e5a70d46-90a4-4ad5-b5de-dc3cc8aeb00e/logo-qr.svg`,
+    I = `${ut.IMG_URL}/v1/e5a70d46-90a4-4ad5-b5de-dc3cc8aeb00e/complete.png`,
     T = `${ut.IMG_URL}/v1/2ef44f77-59f8-43fd-8ac8-535b2fb7a308/rolling.gif`;
   Be(async () => {
     t(5, (u = window.location.origin + W.DOWNLOAD.pathname));

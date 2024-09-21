@@ -1,1 +1,126 @@
-.iconfont.svelte-1yxb13w{right:0;top:0}.warp.svelte-1m900av.svelte-1m900av{border-radius:12px;width:480px}.link.svelte-1m900av.svelte-1m900av{margin:auto;border-radius:8px;width:100%;line-height:32px;text-align:center;background:#f1f4f9}.modal-title.svelte-1m900av.svelte-1m900av{margin-top:40px;white-space:break-spaces}.form.svelte-1m900av.svelte-1m900av{margin-top:auto!important}.forgot.svelte-1m900av.svelte-1m900av:hover{color:var(--blue)}.forgot.svelte-1m900av.svelte-1m900av{font-family:HarmonyOS Sans;color:#303236;text-decoration:underline}.title.svelte-1m900av.svelte-1m900av{margin:0;padding:0}.home-login-email.svelte-1m900av.svelte-1m900av{margin-top:40px}.home-login-password.svelte-1m900av.svelte-1m900av,.btn.svelte-1m900av.svelte-1m900av{margin-top:20px}@media screen and (max-width: 640px){.warp.svelte-1m900av.svelte-1m900av{padding:0 24px;width:auto}.title.svelte-1m900av.svelte-1m900av{display:flex}.xs\:f24.svelte-1m900av.svelte-1m900av{font-size:24px}.link.svelte-1m900av.svelte-1m900av{margin:0}.modal-title.svelte-1m900av.svelte-1m900av{white-space:break-spaces}}.modal-ui.svelte-1m900av .modal-title.svelte-1m900av{text-align:left;color:#9fa3ab}.modal-ui.svelte-1m900av .link.svelte-1m900av{margin:unset}.modal-ui.svelte-1m900av .home-register.svelte-1m900av{color:#449AFF}.modal-ipt-title.svelte-1m900av.svelte-1m900av{line-height:16px;font-weight:500;font-size:14px;color:#303236}.modal-ui.svelte-1m900av .home-login-email.svelte-1m900av,.modal-ui.svelte-1m900av .home-login-password.svelte-1m900av{margin-top:10px}.forgot.svelte-1m900av.svelte-1m900av,.account-title.svelte-1m900av.svelte-1m900av{line-height:18px;font-size:14px;color:#6c6e74}.activity-container.svelte-1xvbxrj{height:100%;background:#000}@media screen and (min-width: 640px){.login.svelte-1xvbxrj{display:flex;justify-content:center;align-items:center}}@media screen and (max-width: 640px){.activity-container.svelte-1xvbxrj{display:none}}
+.iconfont.svelte-1yxb13w {
+    right: 0;
+    top: 0
+}
+
+.warp.svelte-1m900av.svelte-1m900av {
+    border-radius: 12px;
+    width: 480px
+}
+
+.link.svelte-1m900av.svelte-1m900av {
+    margin: auto;
+    border-radius: 8px;
+    width: 100%;
+    line-height: 32px;
+    text-align: center;
+    background: #f1f4f9
+}
+
+.modal-title.svelte-1m900av.svelte-1m900av {
+    margin-top: 40px;
+    white-space: break-spaces
+}
+
+.form.svelte-1m900av.svelte-1m900av {
+    margin-top: auto !important
+}
+
+.forgot.svelte-1m900av.svelte-1m900av:hover {
+    color: var(--blue)
+}
+
+.forgot.svelte-1m900av.svelte-1m900av {
+    font-family: HarmonyOS Sans;
+    color: #303236;
+    text-decoration: underline
+}
+
+.title.svelte-1m900av.svelte-1m900av {
+    margin: 0;
+    padding: 0
+}
+
+.home-login-email.svelte-1m900av.svelte-1m900av {
+    margin-top: 40px
+}
+
+.home-login-password.svelte-1m900av.svelte-1m900av,
+.btn.svelte-1m900av.svelte-1m900av {
+    margin-top: 20px
+}
+
+@media screen and (max-width: 640px) {
+    .warp.svelte-1m900av.svelte-1m900av {
+        padding: 0 24px;
+        width: auto
+    }
+
+    .title.svelte-1m900av.svelte-1m900av {
+        display: flex
+    }
+
+    .xs\:f24.svelte-1m900av.svelte-1m900av {
+        font-size: 24px
+    }
+
+    .link.svelte-1m900av.svelte-1m900av {
+        margin: 0
+    }
+
+    .modal-title.svelte-1m900av.svelte-1m900av {
+        white-space: break-spaces
+    }
+}
+
+.modal-ui.svelte-1m900av .modal-title.svelte-1m900av {
+    text-align: left;
+    color: #9fa3ab
+}
+
+.modal-ui.svelte-1m900av .link.svelte-1m900av {
+    margin: unset
+}
+
+.modal-ui.svelte-1m900av .home-register.svelte-1m900av {
+    color: #449AFF
+}
+
+.modal-ipt-title.svelte-1m900av.svelte-1m900av {
+    line-height: 16px;
+    font-weight: 500;
+    font-size: 14px;
+    color: #303236
+}
+
+.modal-ui.svelte-1m900av .home-login-email.svelte-1m900av,
+.modal-ui.svelte-1m900av .home-login-password.svelte-1m900av {
+    margin-top: 10px
+}
+
+.forgot.svelte-1m900av.svelte-1m900av,
+.account-title.svelte-1m900av.svelte-1m900av {
+    line-height: 18px;
+    font-size: 14px;
+    color: #6c6e74
+}
+
+.activity-container.svelte-1xvbxrj {
+    height: 100%;
+    display: none;
+    background: #000
+}
+
+@media screen and (min-width: 640px) {
+    .login.svelte-1xvbxrj {
+        display: flex;
+        justify-content: center;
+        align-items: center
+    }
+}
+
+@media screen and (max-width: 640px) {
+    .activity-container.svelte-1xvbxrj {
+        display: none
+    }
+}
