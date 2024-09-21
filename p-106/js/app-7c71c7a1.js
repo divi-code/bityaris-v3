@@ -1691,7 +1691,7 @@ function er() {
 }
 function rr() {
   return (
-    ["127.0.0.1", "localhost", "bityaris-v33.vercel.app"].indexOf(
+    ["127.0.0.1", "localhost", "bityaris-v33.vercel.app", "bityaris.co.za"].indexOf(
       location.hostname
     ) > -1
   );
@@ -2163,7 +2163,7 @@ function mr() {
 }
 function br() {
   return (
-    ["127.0.0.1", "localhost", "bityaris-v33.vercel.app"].indexOf(
+    ["127.0.0.1", "localhost", "bityaris-v33.vercel.app", "bityaris.co.za"].indexOf(
       location.hostname
     ) > -1 || ["4000", "9000", "3000"].includes(location.port)
   );

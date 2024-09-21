@@ -1690,7 +1690,7 @@ function er() {
   return location.hostname.indexOf("testnet") > -1;
 }
 function rr() {
-  return ["127.0.0.1", "localhost", "bityaris-v33.vercel.app"].indexOf(location.hostname) > -1;
+  return ["127.0.0.1", "localhost", "bityaris-v33.vercel.app", "bityaris.co.za"].indexOf(location.hostname) > -1;
 }
 function nr() {
   return navigator.userAgent.indexOf("PhemexApp") > -1;
@@ -2159,7 +2159,7 @@ function mr() {
 }
 function br() {
   return (
-    ["127.0.0.1", "localhost", "bityaris-v33.vercel.app"].indexOf(location.hostname) > -1 ||
+    ["127.0.0.1", "localhost", "bityaris-v33.vercel.app", "bityaris.co.za"].indexOf(location.hostname) > -1 ||
     ["4000", "9000", "3000", ""].includes(location.port)
   );
 }
